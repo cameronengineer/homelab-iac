@@ -40,6 +40,7 @@ Temporary Items
 
 # .tfstate files
 *.tfstate
+*.tfstate.backup
 # *.tfstate.*
 
 # Crash log files
